@@ -42,5 +42,4 @@ Create Class With Invalid ClassInfo Should Fail
     Class Creation Should Have Failed
 
 Class Creation Should Have Failed
-    Location Should Be    ${CREATE_CLASS_ERR URL}
-    Title Should Be    Error Page
+    CreateClassErr Page Should Be Open 

@@ -16,7 +16,7 @@ ${LOGIN URL}      http://${SERVER}/
 ${WELCOME URL}    http://${SERVER}/welcome.html
 ${ERROR URL}      http://${SERVER}/error.html
 ${CREATE_CLASS URL}         http://${SERVER}/createClass.html
-${CLASSCREATED URL}         http://${SERVER}/classCreated.html
+${CLASS_CREATED URL}         http://${SERVER}/classCreated.html
 ${CREATE_CLASS_ERR URL}         http://${SERVER}/classCreationError.html
 ${VALID ClassTitle}		Yoga
 ${VALID DESC}		Here is Yoga description
